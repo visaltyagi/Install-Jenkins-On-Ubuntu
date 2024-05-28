@@ -11,3 +11,5 @@
 **Step 5:** Add a Node (Jenkins-Slave) in "Jenkins" using the .pem method (recommended)
 
 **Step 6:** Test the connectivity of both instances using the ssh method. Do SSH from Jenkins-Master to "Jenkins-Slave".
+
+**Note:** For weekly release commands of Jenkins, check out this link: https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
